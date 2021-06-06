@@ -1,3 +1,6 @@
+# Introduction
+Using ReactJs to create a web service in which a list of Hong Kong to-do items is shown. Data is obtained from the application service with Python Flask
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
