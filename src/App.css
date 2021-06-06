@@ -1,0 +1,25 @@
+
+.card {
+  width: 18em;
+  margin: 10px;
+}
+
+.card-img-top:hover {
+  /*opacity: 0.6;*/
+  transform: scale(1.1);
+}
+
+.travels {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.container {
+  text-align: center;
+}
+
+.btn-group {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
