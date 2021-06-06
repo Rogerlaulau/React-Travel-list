@@ -10,6 +10,9 @@ Data is obtained from the application service with Python Flask.
 go to "http://localhost:3000/"
 
 
+![](screenshot.png "screenshot")
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
