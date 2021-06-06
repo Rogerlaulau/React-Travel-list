@@ -1,10 +1,14 @@
 # Introduction
-Using ReactJs to create a web service in which a list of Hong Kong to-do items is shown. Data is obtained from the application service with Python Flask
+Using ReactJS to create a web service in which a list of Hong Kong to-do items is shown.   
+Data is obtained from the application service with Python Flask.
 
 ### start with a empty project
-> npx create-react-app [project name]
-> yarn start
+```
+> npx create-react-app [project name]   
+> yarn start   
+```   
 go to "http://localhost:3000/"
+
 
 # Getting Started with Create React App
 
