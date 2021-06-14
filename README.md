@@ -1,3 +1,9 @@
+# How to start ...
+1. Make sure you start the flask service by running **python data_source.py** to provide image, data
+2. cd to the directory and **yarn start**
+3. go to your browser and type: localhost:3000 
+
+
 # Introduction
 Using ReactJS to create a web service in which a list of Hong Kong to-do items is shown.   
 Data is obtained from the application service with Python Flask.
