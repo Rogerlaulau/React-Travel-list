@@ -1,6 +1,14 @@
 # How to start ...
-1. Make sure you start the flask service by running **python data_source.py** to provide image, data
-Or, you may run **node data_source.js** to provide image, data using NodeJS(Express.js)
+1. Make sure you start data service to provide image, data
+using Python(Flask)
+'''
+python data_source.py
+'''
+OR
+using NodeJS(Express.js)
+'''
+node data_source.js
+'''
 
 2. cd to the directory and **yarn start**
 3. go to your browser and type: localhost:3000 
@@ -19,6 +27,7 @@ go to "http://localhost:3000/"
 
 
 ![](screenshot.png "screenshot")
+![](screenshot2.png "screenshot2")
 
 
 # Getting Started with Create React App
