@@ -1,4 +1,7 @@
-# How to start ...
+# Travel Blog  - ReactJS, NodeJS   
+Using frontend library ReactJS to create a web service in which a list of Hong Kong to-do items is shown.   
+
+# How to start running ...
 1. Make sure you start data service to provide image, data   
 using Python(Flask)   
 ```
