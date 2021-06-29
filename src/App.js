@@ -28,7 +28,7 @@ class App extends Component {
     return (
       <div className="container">
         <div class="jumbotron">
-          <h1 class="display-3">Travel to Hong Kong</h1>
+          <h1 class="display-3">ConNest - Construct Your Nest</h1>
           <h3 class="display-6">Author: Roger Lau</h3>
         </div>
         <div className="travels">
