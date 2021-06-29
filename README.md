@@ -26,7 +26,7 @@ go to "http://localhost:3000/"
 
 
 ![](screenshot.png "screenshot")
-![](screenshot2.png "screenshot2")
+![](Screenshot2.png "screenshot2")
 
 
 # Getting Started with Create React App
