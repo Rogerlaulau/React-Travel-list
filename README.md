@@ -1,14 +1,13 @@
 # How to start ...
-1. Make sure you start data service to provide image, data
-using Python(Flask)
-'''
+1. Make sure you start data service to provide image, data   
+using Python(Flask)   
+```
 python data_source.py
-'''
-OR
-using NodeJS(Express.js)
-'''
+```
+**OR** using NodeJS(Express.js)   
+```
 node data_source.js
-'''
+```
 
 2. cd to the directory and **yarn start**
 3. go to your browser and type: localhost:3000 
